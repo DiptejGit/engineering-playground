@@ -1,36 +1,45 @@
-# engineering-playground
-Personal engineering learning and project laboratory — mechanical design, bearings, dynamics, FEA, CAD, Python automation, and related engineering topics.
-engineering-playground/
-│
-├── README.md
-│
-├── 01_Engineering_Math/
-│
-├── 02_Solid_Mechanics/
-│
-├── 03_Dynamics/
-│
-├── 04_Machine_Design/
-│   ├── 01_Shaft/
-│   ├── 02_Gear/
-│   └── 03_Bearing/
-│
-├── 05_FEA/
-│   ├── 01_Beam/
-│   ├── 02_Plate/
-│   ├── 03_Buckling/
-│   ├── 04_Contact/
-│   └── 05_Modal/
-│
-├── 06_Wind_Turbine/
-│   └── 01_Mini_Powertrain/
-│
-├── 07_Python_Automation/
-│
-├── 08_Engineering_Exploration/
-│   ├── 01_Rocket_Propulsion/
-│   ├── 02_Turbomachinery/
-│   ├── 03_Robotics/
-│   └── 04_Other/
-│
-└── resources/
+# Engineering Playground
+
+A personal engineering laboratory for learning, experimenting, and applying mechanical engineering concepts.
+
+The goal is not to collect courses, but to connect **theory → calculation → CAD → simulation → experimentation → documentation**.
+
+## Areas
+
+### 01 — Engineering Mathematics
+
+Linear algebra, differential equations, numerical methods, and mathematical tools used in engineering.
+
+### 02 — Solid Mechanics
+
+Stress, strain, deformation, failure, fatigue, and fundamentals of solid mechanics.
+
+### 03 — Dynamics
+
+Kinematics, kinetics, vibrations, modal behaviour, and rotating systems.
+
+### 04 — Machine Design
+
+Shafts, gears, bearings, fasteners, fatigue, and mechanical component design.
+
+### 05 — FEA
+
+Finite element fundamentals and practical simulation studies.
+
+### 06 — Wind Turbine
+
+Exploration of wind-turbine powertrain systems, rotating machinery, and bearing-related engineering problems.
+
+### 07 — Python Automation
+
+Engineering calculations, data processing, automation, and CAE-related utilities.
+
+### 08 — Engineering Exploration
+
+Side explorations into areas such as rocket propulsion, turbomachinery, robotics, manufacturing, and other engineering topics.
+
+## Learning Philosophy
+
+> Learn → Build → Test → Investigate → Improve → Document
+
+Projects are created independently using publicly available information and are not based on proprietary company data or designs.
